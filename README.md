@@ -7,7 +7,7 @@
 </br>
 
 <h2 align="center"><span>About</span></h2>
-<p>This is a very basic MOTD plugin which was developed for old PixelPals server, you can edit the motd text by editing motd.pp file, you can add <b>{l}</b> as the ending of line</p>
+<p>This is a very basic MOTD plugin which was developed for old PixelPals server, you can edit the MOTD text by editing motd.pp file, you can add <b>{l}</b> as the ending of line</p>
 
 
 </br>
